@@ -3,11 +3,16 @@ li {
   margin: 5px;
   background: #faebd7;
 }
-
+.background-image {
+  background-image: url("burgerAppPic.jpg");
+  background-color: #cccccc;
+}
 .label {
   font-weight: bold;
 }
-
+.text1 {
+  color: #edbe3b;
+}
 .create-update-form {
   padding: 5px;
   margin: 5px;
